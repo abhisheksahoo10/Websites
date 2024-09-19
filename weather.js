@@ -39,9 +39,6 @@ async function checkweather(city){
         weatherIcon.src = "./images/snow.png";
     }
     
-
-
-
 }
 checkweather("Bhubaneswar");
 searchButton.addEventListener('click',()=>{
